@@ -73,7 +73,7 @@ title('closed loop response')
 ```
 
 ## Output
-<img width="696" height="586" alt="image" src="https://github.com/user-attachments/assets/47fac75b-2240-498a-9570-96790e82f219" />
+<img width="835" height="747" alt="Screenshot 2025-10-08 084629" src="https://github.com/user-attachments/assets/4d5c6e2d-1477-45f5-b6ff-5ad91f32b4ee" />
 
 
 ## Result
